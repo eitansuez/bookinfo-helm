@@ -17,6 +17,6 @@ entries:
     - https://github.com/istio/istio/tree/master/samples/bookinfo
     type: application
     urls:
-    - https://eitansuez.github.io/bookinfo-helm/charts/bookinfo-0.1.0.tgz
+    - https://eitansuez.github.io/bookinfo-helm/bookinfo-0.1.0.tgz
     version: 0.1.0
 generated: "2023-12-05T15:59:53.275477-06:00"
