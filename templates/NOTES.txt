@@ -1,0 +1,5 @@
+Thanks for installing the chart {{ .Chart.Name }}.
+Your release is named {{ .Release.Name }}.
+
+To learn about the bookinfo app, see {{ .Chart.Home }}.
+

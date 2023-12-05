@@ -1,0 +1,13 @@
+apiVersion: v2
+name: bookinfo
+version: 0.1.0
+description: A Helm chart for Istio's bookinfo sample app
+type: application
+keywords:
+- istio
+home: "https://istio.io/latest/docs/examples/bookinfo/"
+sources:
+- "https://github.com/istio/istio/tree/master/samples/bookinfo"
+maintainers:
+- name: Eitan Suez
+  email: eitan@tetrate.io
