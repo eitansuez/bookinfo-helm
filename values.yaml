@@ -1,4 +1,4 @@
 
-deploySleep: true
 deployAllReviewsVersions: true
+deploySleep: false
 configureIngress: false
