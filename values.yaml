@@ -1,3 +1,4 @@
-# Default values for bookinfo.
 
 deploySleep: true
+deployAllReviewsVersions: true
+configureIngress: false
