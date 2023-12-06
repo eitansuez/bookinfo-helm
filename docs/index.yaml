@@ -3,9 +3,9 @@ entries:
   bookinfo:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-05T15:59:53.275805-06:00"
+    created: "2023-12-05T21:54:08.865444-06:00"
     description: A Helm chart for Istio's bookinfo sample app
-    digest: 632beb5b0cbd8579579aca653ec711b47d809da1c4737ede7785c799167071ba
+    digest: 90390b17cfac40bd4219f78f3f75a7575539346289e203bb4c0d2d7b6efc6c82
     home: https://istio.io/latest/docs/examples/bookinfo/
     keywords:
     - istio
@@ -17,6 +17,6 @@ entries:
     - https://github.com/istio/istio/tree/master/samples/bookinfo
     type: application
     urls:
-    - https://eitansuez.github.io/bookinfo-helm/bookinfo-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-12-05T15:59:53.275477-06:00"
+    - https://eitansuez.github.io/bookinfo-helm/bookinfo-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-12-05T21:54:08.865097-06:00"
